@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bobukanator (This alias was based on A Wrinkle in Time and then updated with the 'anator' when I forgot my password on AOL instant messenger) - my IRL name is Brian Lawrence. 
+- 👋 Hi, I’m @Bobukanator (This alias was based on a character from the book a Wrinkle in Time and then updated with the 'anator' when I forgot my password on AOL instant messenger back in the 90s) - my IRL name is Brian Lawrence. 
 - 👀 I’m interested in crypto and metaverse technologies! 
 - 🌱 I’m currently learning VUE.js, NUXT, and Solidity.  
 - 💞️ I’m looking to collaborate on anything exciting that provides value!
